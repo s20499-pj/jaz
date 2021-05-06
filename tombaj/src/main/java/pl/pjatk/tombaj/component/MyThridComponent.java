@@ -1,10 +1,8 @@
-package pl.pjatk.tombaj;
+package pl.pjatk.tombaj.component;
 
 
-import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
-
-import java.sql.SQLOutput;
+import pl.pjatk.tombaj.rest.MySimpleClass;
 
 @Component
 public class MyThridComponent {

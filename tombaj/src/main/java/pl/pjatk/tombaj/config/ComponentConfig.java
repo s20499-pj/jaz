@@ -1,7 +1,8 @@
-package pl.pjatk.tombaj;
+package pl.pjatk.tombaj.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
+import pl.pjatk.tombaj.rest.MySimpleClass;
 
 @Component
 public class ComponentConfig {

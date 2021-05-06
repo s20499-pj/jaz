@@ -1,6 +1,7 @@
-package pl.pjatk.tombaj;
+package pl.pjatk.tombaj.component;
 
 import org.springframework.stereotype.Component;
+import pl.pjatk.tombaj.rest.MySimplePojo;
 
 import java.util.List;
 

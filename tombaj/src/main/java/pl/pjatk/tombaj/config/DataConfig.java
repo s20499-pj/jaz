@@ -1,8 +1,9 @@
-package pl.pjatk.tombaj;
+package pl.pjatk.tombaj.config;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import pl.pjatk.tombaj.rest.MySimplePojo;
 
 import java.util.List;
 

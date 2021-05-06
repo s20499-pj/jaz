@@ -1,4 +1,4 @@
-package pl.pjatk.tombaj;
+package pl.pjatk.tombaj.rest;
 
 public class MySimpleClass {
 
